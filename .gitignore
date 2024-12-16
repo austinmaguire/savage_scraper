@@ -1,0 +1,22 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Virtual Environment
+**/bin/
+**/lib/
+**/include/
+**/pyvenv.cfg
+
+# Project specific
+*.json
+
+# IDE/Editor (common)
+.vscode/
+.idea/
+*.swp
+.DS_Store

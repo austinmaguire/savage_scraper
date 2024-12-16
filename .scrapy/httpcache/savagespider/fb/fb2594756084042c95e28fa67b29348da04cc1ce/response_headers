@@ -1,0 +1,39 @@
+Date: Sun, 10 Nov 2024 19:26:39 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 159
+X-Sorting-Hat-Shopid: 10439998
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d6b9795e-572a-421d-976e-6e88cf884363; path=/; expires=Sun, 10 Nov 2024 19:56:39 GMT; secure; HttpOnly; SameSite=None
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 10 Nov 2025 19:26:39 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Mon, 10 Nov 2025 19:26:39 GMT; secure; SameSite=None
+Set-Cookie: cart_currency=USD; path=/; expires=Sun, 24 Nov 2024 19:26:39 GMT; secure; SameSite=None
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22USCA%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Afalse%2C%22p%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Atrue%2C%22consent_id%22%3A%22C8BAE2C1-3a29-46B6-a732-1effee2e0dba%22%7D; domain=californiacarnivores.com; path=/; expires=Mon, 10 Nov 2025 19:26:39 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Afalse%2C%22p%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Atrue%7D; domain=californiacarnivores.com; path=/; expires=Mon, 11 Nov 2024 19:26:39 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=; Expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Domain=californiacarnivores.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=; Expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Domain=californiacarnivores.com; Path=/; SameSite=Lax
+X-Shopify-Nginx-No-Cookies: 0
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:8933df29b2d5305edd286c89eb04122c"
+Content-Encoding: br
+X-Cache: miss
+Content-Security-Policy: block-all-mixed-content; frame-ancestors *; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10439998
+X-Shardid: 159
+Vary: Accept
+Content-Language: en-US
+Powered-By: Shopify
+Server-Timing: processing;dur=158;desc="gc:19", db;dur=18, db_async;dur=2.072, render;dur=64, asn;desc="136787", edge;desc="SJC", country;desc="US", theme;desc="115540000928", pageType;desc="collection", servedBy;desc="4wgj", requestID;desc="b0d0fbc7-1664-45eb-9614-50e650f83672-1731266799"
+Server-Timing: cfRequestDuration;dur=200.999975
+X-Dc: gcp-us-west1,gcp-us-west1,gcp-us-west1
+X-Request-Id: b0d0fbc7-1664-45eb-9614-50e650f83672-1731266799
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=PKgTi7%2BIqxbt5TYR57q0ByMGkvIJlw37eUjCjAWmyQ2UGEKW2dMvUjElN0q0oj932%2FVfjvdfB65GAt5C35Hgnggl7F%2BpdGsobSpBAYL3rATJa4Eq%2BWRGcCjk2PmAic%2FIbFvMsoegVWEdREp4Gks%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 8e086f799a047aaf-SJC
