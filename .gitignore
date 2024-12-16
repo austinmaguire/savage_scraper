@@ -13,7 +13,8 @@ __pycache__/
 **/pyvenv.cfg
 
 # Project specific
-*.json
+*.json 
+.scrapy/
 
 # IDE/Editor (common)
 .vscode/
